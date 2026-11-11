@@ -1,0 +1,5 @@
+Floor 0: 20 slots
+Floor 1: 50 slots
+Floor 2: 50 slots
+Floor 3: 75 slots
+Floor 4: 100 slots

@@ -1,0 +1,9 @@
+TwoWheeler TN01AB1111 ticket=1001 slot=0:0
+Car TN02CD2222 ticket=1002 slot=0:1
+ElectricCar TN03EF3333 ticket=1003 slot=1:0
+EBike TN04GH4444 ticket=1004 slot=1:1
+DeliveryVan TN05JK5555 ticket=1005 slot=1:2
+Car fee: Rs 90.00
+Electric car fee including charging: Rs 210.00
+One-day pass fee: Rs 0.00
+Current occupancy: 2

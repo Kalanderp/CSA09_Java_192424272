@@ -1,0 +1,10 @@
+First slot allocated: true
+Second slot allocated: true
+Third slot allocated: true
+Fourth vehicle rejected when full: true
+Duplicate registration rejected: true
+Zero-minute car fee: 0.0
+61-minute car fee: 60.0
+Same registration objects equal: true
+One-day pass fee: 0.0
+Final occupancy: 2
