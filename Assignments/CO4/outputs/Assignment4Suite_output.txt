@@ -1,0 +1,9 @@
+ASSIGNMENT 4 ? CO4 | Event-Driven GUI Design
+Q1 service validation: VALID: payment of ?1250.00
+Q1 invalid amount: Amount must be positive
+Q2 cached departments: [Cardiology, Orthopaedics, Dermatology]
+Q3 layout design: BorderLayout root; FlowLayout header/footer; CENTER results.
+Q4 paint model: stored Point objects are redrawn during paint().
+Q5 converter test: 100 INR to USD at 0.012 = 1.2
+Q6 JDBC: MySQL UI source compiled; runtime requires Connector/J and configured database.
+Core validation checks completed.
