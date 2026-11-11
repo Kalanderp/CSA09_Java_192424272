@@ -1,0 +1,11 @@
+Find P1003: [P1003, 192311003, Divya, 7, 3800.0]
+Find missing: null
+Route 7: 2 records
+Indexed lookup: [P1001, 192311001, Arun, 12, 4200.0]
+Residents restored: 1, password restored: null
+1 MB | unbuffered=410 ms | buffered=36 ms | lines=26215/26215
+10 MB | unbuffered=4366 ms | buffered=54 ms | lines=262144/262144
+50 MB | unbuffered=21774 ms | buffered=277 ms | lines=1310720/1310720
+JDBC demos: run with argument jdbc after configuring MySQL.
+
+Exit code: 0

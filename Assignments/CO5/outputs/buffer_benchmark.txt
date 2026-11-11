@@ -1,0 +1,5 @@
+1 MB | unbuffered=361 ms | buffered=33 ms | lines=26215/26215
+10 MB | unbuffered=3507 ms | buffered=77 ms | lines=262144/262144
+50 MB | unbuffered=21502 ms | buffered=507 ms | lines=1310720/1310720
+
+Exit code: 0

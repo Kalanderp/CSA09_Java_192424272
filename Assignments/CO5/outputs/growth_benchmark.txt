@@ -1,0 +1,6 @@
+1000 records | 100 scans=168 ms | index build=4 ms | 100 hash lookups=0 ms | entries=1000
+10000 records | 100 scans=717 ms | index build=12 ms | 100 hash lookups=0 ms | entries=10000
+50000 records | 100 scans=1959 ms | index build=32 ms | 100 hash lookups=0 ms | entries=50000
+100000 records | 100 scans=2605 ms | index build=39 ms | 100 hash lookups=0 ms | entries=100000
+
+Exit code: 0

@@ -1,0 +1,3 @@
+Residents restored: 1, password restored: null
+
+Exit code: 0

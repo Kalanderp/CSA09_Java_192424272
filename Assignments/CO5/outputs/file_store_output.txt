@@ -1,0 +1,6 @@
+Find P1003: [P1003, 192311003, Divya, 7, 3800.0]
+Find missing: null
+Route 7: 2 records
+Indexed lookup: [P1001, 192311001, Arun, 12, 4200.0]
+
+Exit code: 0

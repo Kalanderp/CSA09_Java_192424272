@@ -1,0 +1,2 @@
+Command: javac -Xlint:all -d out src/Assignment5Suite.java src/JdbcExperiments.java
+Exit code: 0
