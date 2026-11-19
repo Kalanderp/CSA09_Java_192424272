@@ -1,5 +1,0 @@
-Compilation: javac -Xlint:all -d out src/Assignment3Suite.java
-Result: SUCCESS (exit code 0; four non-fatal serialVersionUID lint warnings)
-Execution: java -cp out Assignment3Suite
-Result: SUCCESS (exit code 0)
-Q7 generated workload: 10,000 files; 9,800 valid, 100 corrupt, 100 missing.
