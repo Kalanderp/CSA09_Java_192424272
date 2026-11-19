@@ -1,0 +1,4 @@
+Test,Action,Click count,Dots persist after restore,Screenshot
+1,Click once,,,
+2,Click multiple times,,,
+3,Minimize and restore,,,

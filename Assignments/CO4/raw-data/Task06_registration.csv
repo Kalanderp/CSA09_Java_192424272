@@ -1,0 +1,4 @@
+Test,Student ID,Name,Event,Expected,Observed,Screenshot
+Valid,192473007,Niranjan,Cultural Fest,Saved,,
+Invalid,,Niranjan,Music Night,Validation message,,
+Duplicate,192473007,Niranjan,Cultural Fest,Rejected,,

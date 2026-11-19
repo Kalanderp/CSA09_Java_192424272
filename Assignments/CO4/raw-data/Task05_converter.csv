@@ -1,0 +1,5 @@
+Style,Input INR,Target,Observed output,Invalid behaviour
+Frame listener,100,USD,,
+Inner class,100,EUR,,
+Anonymous,abc,USD,,
+Lambda,100,USD,,
